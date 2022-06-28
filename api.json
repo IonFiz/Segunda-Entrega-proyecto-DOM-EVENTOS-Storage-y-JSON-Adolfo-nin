@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 8000,
+      "id": 1,
+      "title": "CDJ 2000 Nexus",
+      "img": "./img/nexus2000.jpg"
+    },
+    {
+      "precio": 9000,
+      "id": 2,
+      "title": "CDJ 2000 Nexus 2",
+      "img": "./img/nexus2000_2.jpg"
+    },
+    {
+      "precio": 7000,
+      "id": 3,
+      "title": "Xone 92",
+      "img": "./img/xone92.jpg"
+    },
+    {
+      "precio": 7000,
+      "id": 4,
+      "title": "DJM 900 Nexus 2",
+      "img": "./img/djm900nexus2.jpg"
+    },
+    {
+      "precio": 22000,
+      "id": 5,
+      "title": "Das Vantec Combo",
+      "img": "./img/vantecpack.jpg"
+    },
+    {
+      "precio": 17000,
+      "id": 6,
+      "title": "Das Vantec 215",
+      "img": "./img/ev15ekx.jpg"
+    }
+  ]
